@@ -12,7 +12,7 @@ The server should have region failover and the client should be able to catch up
 
 
 The next projects selection (shold include DB failover and app failover) : 
-- Rundeck
+- Rundeck (job trigger, scheduler, job componentization)
 - Video streaming
 - missOld
 - Traveling
